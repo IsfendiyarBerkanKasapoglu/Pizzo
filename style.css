@@ -1,0 +1,308 @@
+.button {
+    
+    border: none;
+    color: ;
+    font-size: 30px;
+    margin: 50px 50px;
+    cursor: pointer;
+    border-radius: 30px;
+ }
+.text2 {
+    color: rgb(11, 0, 0);
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
+    margin-top: 120px;
+}
+.borderexample {
+    border-style:solid;
+    border-color:#287EC7;
+   }
+.cs {
+    background-color: rgb(228,210,155);
+    width: auto;
+    height: 80px;
+    border-radius: 50px;
+    margin-top: -30px;
+}
+.baslik {
+    color: white;
+    font-size: 40px;
+    text-align: 5px;
+    text-decoration: dotted;
+    margin-top: 11px;
+    cursor: pointer;
+    position: relative;
+    
+ 
+}
+.body01 {
+    background-image:url(Photos/pizza.jpg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: pointer;
+}
+.p1 {
+    color: white;
+    font-size: 50px;
+    cursor: pointer;
+    margin-left: 200px;
+    margin-top: 80px;
+    text-shadow: 4px 4px black;
+  
+}
+.p2 {
+    color: white;
+    font-size: 60px;
+    text-decoration: underline;
+    margin-left: 200px;
+    text-shadow: 4px 4px black;
+
+}
+
+.profil {
+    height: 250px;
+    width: 390px;
+    border-radius: 10%;
+    margin:0 auto; 
+    margin-top: 100 px;
+}
+.benim {
+    font-size: 20px;
+    font-weight: bold;
+}
+.icon {
+    height: 25px;
+    width: 25px;
+    margin-left: 70px;
+}
+.piz {
+    margin-left: 60px;
+    cursor: pointer;
+}
+.profil2 {
+    border-radius: 10%;
+    height: 250px;
+    width: 390px;
+}
+.home_page{
+    margin-top: 100px;
+}
+.ops{
+    font-size: 29px;
+}
+.baslikk {
+    color: white;
+    font-size: 80px;
+    text-shadow: 4px 4px black;
+}
+.l1 {
+    color:white;
+    font-size: 25px;
+}
+.pizza1{
+    height: 200px;
+    width: 200px;
+}
+
+.map{
+    width: 800px;
+    height: 500px;
+    margin-left: 300px;
+    margin-top: -150px;
+    border-radius: 10px;
+}
+.bodyy {
+ 
+}
+.body02 {
+    background-image:url(Photos/pizza.jpg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.form {
+    color: white;
+    
+}
+.mapstore{
+    width: 600px;
+    height: 650px;
+    margin-left: 1280px;
+    border-radius: 5%;
+    justify-content: center;
+    margin-top: -2500px;
+    position: relative;
+
+}
+.csg {
+    background-color: rgb(228,210,155);
+    width:auto ;
+    height: 80px;
+    border-radius: 50px;
+    position: absolute;
+
+}
+.logouticon {
+    height: 30px;
+    width: 30px;
+    margin-left: 1px;
+    margin-top: -20px;
+    cursor: pointer;
+    position: relative;
+
+}
+.logout {  
+    margin-left: 1550px;
+    margin-top: 1px;
+    font-size: 20px;
+    position: relative;
+    
+
+}
+.group {
+    background-image:url(Photos/woodd.jpeg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.manipeni {
+    color: black;
+    font-size: 50px;
+    margin-left: 797px;
+    margin-top: 30px;
+
+}
+.table1 {
+    margin-bottom: -130px;
+    margin-left: 200px;
+}
+.a1 {
+    font-size: 28px;
+}
+.a2 {
+    font-size: 19px;
+    text-decoration: underline;
+}
+.a3 {
+    font-size: 17px;
+}
+.a4 {
+    font-size: 17px;
+
+
+}
+.masa2 {
+    margin-left: 1350px;
+    margin-top: -185px;
+    
+    
+}
+.table3 {
+    margin-top: 50px;
+}
+.marr {
+    height: 200px;
+    width: 200px;
+    margin-left: 30px;
+    margin-top: -20px;
+}
+.karr {
+    height: 200px;
+    width: 200px;
+    margin-left: 750px;
+}
+.masa3 {
+    margin-left: 1350px;
+    margin-top: -210px;
+}
+.ali {
+    height: 200px;
+    width: 200px;
+    margin-left: 740px;
+}
+.baba {
+    height: 200px;
+    width: 200px;
+    margin-left: 30px;
+}
+.table4 {
+    margin-bottom: -130px;
+    margin-left: 200px;
+}
+.backimage {
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+
+}
+.submit {
+    cursor: pointer;
+}
+
+.box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 400px;
+    padding: 40px;
+    background: rgba(0, 0, 0, 0.6);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+  }
+  .box h2{
+    margin: 0 0 30px;
+    padding: 0px;
+    color: #fff;
+    text-align: center;
+  }
+  .box .input-box{
+    position: relative;
+  }
+  .box .input-box input{
+    width: 100%;
+    padding: 10px 0px;
+    font-size: 16px;
+    color: #fff;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+    border: none;
+    outline: none;
+    background: transparent;
+    border-bottom: 1px solid #fff;
+  }
+  .box .input-box label{
+    position: absolute;
+    top: 0;
+    left: 0;
+    letter-spacing: 1px;
+    padding: 10px 0px;
+    font-size: 16px;
+    color: #fff;
+    transition: .5s;
+  }
+  .box .input-box input:focus ~ label,
+  .box .input-box input:valid ~ label{
+    top: -18px;
+    left: 0px;
+    color: #03a9f4;
+    font-size: 12px;
+  }
+  .box input[type="submit"]{
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #227be3;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor:pointer;
+  }
+  .registerr {
+      margin-left: 150px;
+  }

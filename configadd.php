@@ -1,7 +1,5 @@
 <?php
-    token_get_all($_REQUEST);
-    $file=fopen("form-save.txt","a");
-
+    $file=fopen("form-save.txt","r");
     fread($file,"Name :");
     fread($file, $username ."\n");
     fread($file,"Email :");

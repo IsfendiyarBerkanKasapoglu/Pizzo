@@ -5,33 +5,36 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style media="screen">
+      
+    </style>
     <title>Cypro Pizzo - LoginPage</title>
 </head>
 
 <body class="body01">
-    <center><p1 class="baslikk">Cypro Pizzo</p1><br><br></center>
      
 <div class="box">
 <center><img class="pizza1" src="Photos/1.icon.png"/></center>
         <br><br>
-   
+        <center><p1 class="baslikk">Cypro Pizzo</p1><br><br></center>
+      <form action="configadd.php" >
+      </form>
+        <div class="input-box">
+          <input type="text" name="username"  autocomplete="on" >
+          <label for="">Username</label>
+        </div>
       <div class="input-box">
-        <input type="text" name="username"  autocomplete="on" required="">
-        <label for="">Username</label>
-      </div>
-      <form action="configadd.php">
-      <div class="input-box">
-        <input type="password" name="password"  autocomplete="on" required="">
+        <input type="password" name="password"  autocomplete="on" >
         <label for="">Password</label>
       </div>
-    </form>
       <table>
-          <tr>
-            <td><input onclick="location.href='homepage.html'" type="submit" value="Login"></td>
-            <td><input class="registerr" onclick="location.href='account.html'" type="submit" value="Register"></td>
-          </tr>
-      </table>
-        
+        <tr>
+          <td><input onclick="location.href='homepage.html'" type="submit" value="Login"></td>
+          <td><input  class="registerr" onclick="location.href='account.html'" type="submit" value="Register"></td>
+        </tr>
+    </table>
+    
+      
     
   </div> 
 </body>

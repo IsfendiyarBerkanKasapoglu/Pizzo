@@ -1,1 +1,11 @@
 
+Name :berkan
+Email :berkankasapoglu@hotmail.com
+Password :Hurma-09987
+Telephone_no :0  (533)  844  27  75
+Adress :mersin 10 ,kktc
+Name :Arda
+Email :berkankasapoglu@hotmail.com
+Password :hur
+Telephone_no :0  (533)  844  27  75
+Adress :mersin 10 ,kktc

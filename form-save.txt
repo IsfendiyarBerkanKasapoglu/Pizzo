@@ -1,11 +1,21 @@
 
-Name :berkan
+Name :Hasan
+Email :deneme@gmail.com
+Password :Muh934.23
+Telephone_no :05338760000
+Adress :deneme sk 
+Name :Berkan
 Email :berkankasapoglu@hotmail.com
-Password :Hurma-09987
+Password :Brrqwr7124
 Telephone_no :0  (533)  844  27  75
 Adress :mersin 10 ,kktc
-Name :Arda
-Email :berkankasapoglu@hotmail.com
-Password :hur
-Telephone_no :0  (533)  844  27  75
-Adress :mersin 10 ,kktc
+Name :Berkan
+Email :example@hotmail.com
+Password :Example1234
+Telephone_no :+905338881111
+Adress :famagusta 
+Name :wqer
+Email :ecasdcd@hotmal.com
+Password :wqer
+Telephone_no :123452154
+Adress :ewqrqw

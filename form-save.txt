@@ -19,3 +19,43 @@ Email :ecasdcd@hotmal.com
 Password :wqer
 Telephone_no :123452154
 Adress :ewqrqw
+Name :Berkan
+Email :berkan@hotmail.com
+Password :Try12345.
+Telephone_no :05330000000
+Adress :famagusta, emu
+Name :Berkan
+Email :berkan@hotmail.com
+Password :Haer
+Telephone_no :weqr
+Adress :qwer
+Name :Berkan
+Email :deneme@hotmail.com
+Password :Try1234.
+Telephone_no :05338889900
+Adress :famagusta, emu 
+Name :Berkan
+Email :berkan@hotmail.com
+Password :try1234.
+Telephone_no :05338444444
+Adress :famagusta, trnc
+Name :Berkan
+Email :berkan@hotmail.com
+Password :Try1234.
+Telephone_no :05338888888
+Adress :famagusta, trnc
+Name :Berkan
+Email :berkan@hotmail.com
+Password :try1234.
+Telephone_no :0533 888 88 88
+Adress :emu, famagusta, trnc
+Name :berkan
+Email :berkan@emu.edu.tr
+Password :Try123.
+Telephone_no :0533 844 27 75
+Adress :emu, famagusta , trnc
+Name :berkan
+Email :berkank@hotmail.com
+Password :try1234.
+Telephone_no :0533 888 88 88 
+Adress :emu, famagusta 
